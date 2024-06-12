@@ -1,6 +1,6 @@
 ![Sports Product](https://github.com/sourceduty/Sports_Product/assets/123030236/3a200bb3-6258-4dfc-8be5-b4a389a150b9)
 
-> Use DALL-E 3 to create a product packaging image using real sports and e-sports characters or objects.
+> Use DALL-E 3 to create a product packaging image using real sports, motorsports and e-sports characters or objects.
 
 #
 
