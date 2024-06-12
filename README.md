@@ -8,7 +8,7 @@ Ultimately, 'Sports Product' creates realistic images of sports action figure bo
 
 #
 
-> Alex: *"I'm was excited to publish this custom GPT. Sports team players and fans will love this."*
+> Alex: *"I was excited to publish this custom GPT. Sports team players and fans will love this."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
