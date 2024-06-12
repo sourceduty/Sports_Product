@@ -12,6 +12,13 @@ Ultimately, 'Sports Product' creates realistic images of sports action figure bo
 
 #
 
+> [!TIP]
+> ```
+> Redo with perfect spelling.
+> ```
+
+#
+
 ![Sports Fan](https://github.com/sourceduty/Sports_Product/assets/123030236/a666db45-d853-44eb-a8cb-e696d88a9593)
 
 #
