@@ -10,5 +10,14 @@ Ultimately, 'Sports Product' creates realistic images of sports action figure bo
 
 > Alex: *"I was excited to publish this custom GPT. Sports team players and fans will love this."*
 
+#
+
+![Sports Fan](https://github.com/sourceduty/Sports_Product/assets/123030236/a666db45-d853-44eb-a8cb-e696d88a9593)
+
+#
+### Related Links
+
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
