@@ -31,6 +31,10 @@
 ### Related Links
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+<br>
+[History Product](https://github.com/sourceduty/History_Product)
+<br>
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
