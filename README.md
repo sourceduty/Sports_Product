@@ -41,6 +41,8 @@
 [Animal Product](https://github.com/sourceduty/Animal_Product)
 <br>
 [Character Product](https://github.com/sourceduty/Character_Product)
+<br>
+[Sports Insider](https://github.com/sourceduty/Sports_Insider)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
