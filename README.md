@@ -23,6 +23,10 @@
 
 #
 
+https://github.com/user-attachments/assets/fd623f70-14f3-4c1a-b9e5-7de0e567dfb8
+
+#
+
 > Alex: *"I was excited to publish this custom GPT. Sports team players, gamers and fans will love this."*
 
 > *"This is one of my best custom built GPTs."*
