@@ -11,13 +11,6 @@
 "Sports Product" covers a comprehensive range of sports, including both outdoor and indoor activities. This includes traditional sports like football, basketball, soccer, and baseball, as well as niche sports such as golf and motorsports. It also embraces modern trends by including e-sports characters and game objects, reflecting the growing popularity of competitive video gaming. The platform ensures that every sport, from classic games to contemporary digital competitions, is represented with accurate and appealing packaging designs.
 
 #
-
-> [!TIP]
-> ```
-> Redo with perfect spelling.
-> ```
-
-#
 ![Fortnite Llama](https://github.com/sourceduty/Sports_Product/assets/123030236/a3201544-b529-4071-8242-3064b3c501e7)
 #
 ![Boxes](https://github.com/user-attachments/assets/31dc0df5-19ca-420a-98b3-a72f8a0a3d75)
